@@ -11,6 +11,4 @@ I am interested in:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/80px-React-icon.svg.png"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/55px-Unofficial_JavaScript_logo_2.svg.png">
 <img src="https://icon-icons.com/icons2/2389/PNG/48/unity_logo_icon_144772.png">
 <img src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg" width="50px" height="60px">
-<img src="https://image.flaticon.com/icons/svg/226/226777.svg"  width="50px" height="50px">
-<img src="https://image.flaticon.com/icons/svg/919/919852.svg"  width="50px" height="50px">
 </div>
